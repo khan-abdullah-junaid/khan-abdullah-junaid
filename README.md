@@ -1,10 +1,11 @@
 ## 💫 About Me:
 
-- 👨‍💻 Developer who enjoys turning ideas into working products
-- 🧩 Focused on building structured, maintainable applications
-- ⚙️ Hands-on with frontend UI and backend logic
-- 📚 Continuously learning and improving through projects
-- 🎯 Driven by problem-solving and practical implementation
+- 🎯 Seeking software engineering or data-focused roles to build practical, scalable solutions.
+- 👨‍💻 👨‍💻 Software & Data Developer with a strong foundation in C, Java (OOP), and Python.
+- 🤖 Experienced in building ML workflows and data apps using Scikit-Learn, Pandas, and Streamlit.
+- 📱 Hands-on with native Android development (Room/SQLite) and basic web design (HTML/CSS).
+- 🗄️ Solid understanding of relational DBMS, Distributed Databases (DDBS), and Big Data concepts.
+- ⚙️ Familiar with ITSM principles to ensure structured, reliable software delivery.
 
 ---
 
@@ -54,9 +55,3 @@
 ![ITSM](https://img.shields.io/badge/ITSM-0A66C2?style=for-the-badge&logo=jira&logoColor=white)
 ---
 
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
-</p>
