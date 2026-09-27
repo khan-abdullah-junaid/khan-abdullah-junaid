@@ -24,7 +24,7 @@
 ![Java](https://img.shields.io/badge/Java_OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+
 
 ### 🤖 AI, Machine Learning & Data Science
 ![AI & ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -34,7 +34,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
+
 
 ### 🗄️ Databases & Big Data
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,14 +42,14 @@
 ![Big Data](https://img.shields.io/badge/Big_Data-E25A1C?style=for-the-badge&logo=apache&logoColor=white)
 ![SQLite Room](https://img.shields.io/badge/SQLite_Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+
 
 ### 📱 Application & Web Development
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+
 
 ### 💼 Practices & Service Management
 ![ITSM](https://img.shields.io/badge/ITSM-0A66C2?style=for-the-badge&logo=jira&logoColor=white)
