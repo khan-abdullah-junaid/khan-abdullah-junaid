@@ -1,7 +1,7 @@
 ## 💫 About Me:
 
 - 🎯 Seeking software engineering or data-focused roles to build practical, scalable solutions.
-- 👨‍💻 👨‍💻 Software & Data Developer with a strong foundation in C, Java (OOP), and Python.
+- 👨‍💻 Software & Data Developer with a strong foundation in C, Java (OOP), and Python.
 - 🤖 Experienced in building ML workflows and data apps using Scikit-Learn, Pandas, and Streamlit.
 - 📱 Hands-on with native Android development (Room/SQLite) and basic web design (HTML/CSS).
 - 🗄️ Solid understanding of relational DBMS, Distributed Databases (DDBS), and Big Data concepts.
