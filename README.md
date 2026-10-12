@@ -21,10 +21,8 @@
 ## 💻 Tech Stack:
 
 ### 💻 Programming Languages & Core CS
-![Java](https://img.shields.io/badge/Java_OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
+![HTML & CSS](https://img.shields.io/badge/HTML5_&_CSS3-black?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 ### 🤖 AI, Machine Learning & Data Science
 ![AI & ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
